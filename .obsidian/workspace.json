@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Занятия/2026-05-16.md",
+                "file": "ML/Модуль числа в Machine Learning (ML).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-16"
+              "title": "Модуль числа в Machine Learning (ML)"
             }
           }
         ]
@@ -194,8 +194,11 @@
   },
   "active": "e33d4556f2811973",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Untitled.md",
+    "ML/Модуль числа в Machine Learning (ML).md",
     "Занятия/2026-05-16.md",
+    "ML",
+    "Untitled.base",
     "Занятия",
     "create a link.md",
     "Welcome.md"
